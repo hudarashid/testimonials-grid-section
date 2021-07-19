@@ -108,7 +108,10 @@ p {
 }
 
 .grid .container__daniel {
-  background-color: #7541c8;
+  position: relative;
+  background: url("../images/bg-pattern-quotation.svg") #7541c8;
+  background-repeat: no-repeat;
+  background-position: top right 15%;
   grid-area: daniel;
 }
 

@@ -108,8 +108,12 @@ p {
         
 
         &__daniel {
-            background-color: $moderateViolet;
-            grid-area: daniel;        
+            position: relative;
+            background: url('../images/bg-pattern-quotation.svg') $moderateViolet;
+            background-repeat: no-repeat;
+            background-position: top right 15%;
+            grid-area: daniel;
+            
         }
 
         &__jonathan {
