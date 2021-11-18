@@ -68,7 +68,7 @@ Continue to learn grid in a more comprehensive way
 
 ## Author
 
-- Frontend Mentor - [@kopisatu](https://www.frontendmentor.io/profile/kopisatu)
+- Frontend Mentor - [@hudarashid](https://www.frontendmentor.io/profile/hudarashid)
 - Twitter - [@hudaMRashid](https://twitter.com/hudaMRashid)
 
 
